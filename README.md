@@ -2,7 +2,7 @@
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Pratham Bhatnagar" width="30px">
 
-<a allign="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7D509&background=17A8AC39&center=true&vCenter=true&width=435&lines=A+lot+to+learn+I+have;Lot+to+earn+i+got" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=4ECFBDDA&background=17A8AC00&center=true&vCenter=true&width=435&lines=A+lot+to+learn+I+have;Lot+to+earn+i+got)](https://git.io/typing-svg)
 
 </h1>
 
