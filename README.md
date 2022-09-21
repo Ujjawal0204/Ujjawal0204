@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=4ECFBDDA&background=17A8AC00&center=true&vCenter=true&width=435&lines=A+lot+to+learn+I+have;Lot+to+earn+i+got)](https://git.io/typing-svg)
 
 </h1>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ujjawal-jaiswal-81b6a4221/" target="_blank" rel="noopener"><img alt="LinkedIn"
@@ -17,17 +23,3 @@
 <h5 align="center">⚡ May the Source be with you !</h5>
 
 
-<!--
-**Ujjawal0204/Ujjawal0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
