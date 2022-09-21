@@ -1,5 +1,5 @@
-<h1 align="center">Moshi moshi, Ujjawal Jaiswal here👋 </h1><\br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7D509&background=17A8AC39&center=true&vCenter=true&width=435&lines=A+lot+to+learn+I+have;Lot+to+earn+i+got" alt="Typing SVG" /></a>
+<h1 align="center">Moshi moshi, Ujjawal Jaiswal here👋 </h1>
+<a allign="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7D509&background=17A8AC39&center=true&vCenter=true&width=435&lines=A+lot+to+learn+I+have;Lot+to+earn+i+got" alt="Typing SVG" /></a>
 
 
 <!--
