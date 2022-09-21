@@ -1,4 +1,4 @@
-<h1 align="center">Moshi moshi, Ujjawal Jaiswal here
+<h1 align="center">Hello there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Pratham Bhatnagar" width="30px"> Ujjawal Jaiswal here
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Pratham Bhatnagar" width="30px">
 
