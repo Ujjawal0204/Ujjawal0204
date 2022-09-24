@@ -19,6 +19,6 @@
          
 </p>
 
-<h5 align="center">⚡ May the Source be with you !</h5>
+
 
 
