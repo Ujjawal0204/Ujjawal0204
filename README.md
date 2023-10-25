@@ -1,5 +1,4 @@
-<h1 >Hello there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Ujjawal Jaiswal" width="30px"> Ujjawal Jaiswal here
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=4ECFBDDA&background=17A8AC00&center=true&vCenter=true&width=435&lines=A+lot+to+learn+I+have;Lot+to+earn+i+got)](https://git.io/typing-svg)
 
 </h1>
